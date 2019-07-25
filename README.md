@@ -163,6 +163,11 @@ Additionally, this project is [continuously tested on Travis CI's macOS infrastr
 
 Check out [Ansible for DevOps](https://www.ansiblefordevops.com/), which teaches you how to automate almost anything with Ansible.
 
-## Author
+## Caleb's todos (manually installed apps that need to be playbooked)
 
-[Jeff Geerling](https://www.jeffgeerling.com/), 2014 (originally inspired by [MWGriffin/ansible-playbooks](https://github.com/MWGriffin/ansible-playbooks)).
+1. Clipmenu
+2. iTerm2 - with light theme
+3. Onedrive, pointed at my desktop
+4. Keyboard Maestro
+5. Docker
+6. Pyenv -> python 3.7.4
