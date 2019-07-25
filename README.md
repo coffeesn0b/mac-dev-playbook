@@ -172,3 +172,5 @@ Check out [Ansible for DevOps](https://www.ansiblefordevops.com/), which teaches
 5. Docker
 6. Pyenv -> python 3.7.4
 7. Spectacle
+8. CFA tooling 52961737/Use+the+AWS+CLI+for+an+Account+with+ADFS
+
